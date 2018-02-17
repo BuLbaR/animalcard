@@ -1,0 +1,42 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+.box {
+ border-color: darkgrey;
+ border-style: solid;
+ border-width: 1px;
+}
+
+.div {
+  height: 100%;
+}
+
+.mainDiv {
+
+}
+
+.animalCard {
+  width: 320px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 7px 7px 0px lightgrey;
+  background-color: #fdffef;
+}
+
+.animalPicture {
+  width: 100%;
+
+}
+
+.animalPic {
+  width: 100%;
+}
+
+.animalFact {
+  margin-top: 10px;
+  padding: 10px;
+  padding-top: 0px;
+  background-color: #ecefd5;
+}
